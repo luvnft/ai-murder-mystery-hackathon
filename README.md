@@ -1,9 +1,9 @@
-# AI Alibis: Multi-Agent LLM Murder Mystery
+# AI MM: Multi-Agent LLM Murder Mystery
 
 **[Play online](https://ai-murder-mystery.onrender.com)**
 <div align="center">
 <a href="https://ai-murder-mystery.onrender.com/" target="_blank">
-<img alt="Ai Alibis Logo" src="web/src/assets/screenshot.png" max-width="80%">
+<img alt="AI MM Logo" src="web/src/assets/screenshot.png" max-width="80%">
 </div>
 </a>
 
@@ -41,4 +41,4 @@ To see how our prompting system works, including our critique and revision appro
 
 ## Contact
 
-AI Alibis was created by [Paul Scotti](https://paulscotti.github.io/) and [Will Beddow](https://www.willbeddow.com/).
+AI MM was created by [Paul Scotti](https://paulscotti.github.io/) and [Will Beddow](https://www.willbeddow.com/).

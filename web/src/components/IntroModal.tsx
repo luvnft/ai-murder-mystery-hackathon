@@ -13,7 +13,7 @@ const IntroModal: React.FC<IntroModalProps> = ({ opened, onClose }) => {
       onClose={onClose}
       size="lg"
       title={
-        <Text size="lg" fw={700}>Welcome to AI Alibis</Text>
+        <Text size="lg" fw={700}>Welcome to AI MM</Text>
       }
     >
       <Text>

@@ -11,7 +11,7 @@ const IntroModal: React.FC<IntroModalProps> = ({ opened, onClose }) => {
     <Modal
       opened={opened}
       onClose={onClose}
-      title="Thank you for playing AI Alibis!"
+      title="Thank you for playing AI MM!"
     >
       <Text>
         Let's see if you were right... 🕵️ Detective Sheerluck's deduction is now in your chat interface.
@@ -26,7 +26,7 @@ const IntroModal: React.FC<IntroModalProps> = ({ opened, onClose }) => {
       </Text>
       <br></br>
       <Text size="xs">
-        Did you enjoy the game? Let us know what you think on social media! If you'd like to work together on a more advanced implementation of this idea, message Paul Scotti at scottibrain+aialibis[at]gmail.com with "AI Alibis" in the email title.
+        Did you enjoy the game? Let us know what you think on social media! If you'd like to work together on a more advanced implementation of this idea, message The Wizard of Hahz at info[at]atl5d.com with "AI MM" in the email title.
       </Text>
       <Button onClick={onClose} mt="lg">
         Got it!
