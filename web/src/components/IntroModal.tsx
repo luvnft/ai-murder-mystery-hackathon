@@ -21,7 +21,7 @@ const IntroModal: React.FC<IntroModalProps> = ({ opened, onClose }) => {
       </Text>
       <br></br>
       <Text>
-        The storyline, clues, and suspect alibis are all fixed, with every suspect hiding something about the case from the police. Each suspect knows important information about the other suspects, allowing you to piece together the truth through chatting.
+        The storyline, clues, and suspect MM are all fixed, with every suspect hiding something about the case from the police. Each suspect knows important information about the other suspects, allowing you to piece together the truth through chatting.
       </Text>
       <br></br>
       <Text>
